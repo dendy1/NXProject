@@ -12,3 +12,13 @@ C:\Users\Andrei\source\repos\NXProject\obj\Debug\NXProject.Properties.Resources.
 C:\Users\Andrei\source\repos\NXProject\obj\Debug\NXProject.csproj.CopyComplete
 C:\Users\Andrei\source\repos\NXProject\obj\Debug\NXProject.dll
 C:\Users\Andrei\source\repos\NXProject\obj\Debug\NXProject.pdb
+F:\Projects\NXProject\Project\bin\Debug\NXProject.dll
+F:\Projects\NXProject\Project\bin\Debug\NXProject.pdb
+F:\Projects\NXProject\Project\obj\Debug\NXProject.csprojAssemblyReference.cache
+F:\Projects\NXProject\Project\obj\Debug\NXProject.DetailsForm.resources
+F:\Projects\NXProject\Project\obj\Debug\NXProject.Properties.Resources.resources
+F:\Projects\NXProject\Project\obj\Debug\NXProject.csproj.GenerateResource.cache
+F:\Projects\NXProject\Project\obj\Debug\NXProject.csproj.CoreCompileInputs.cache
+F:\Projects\NXProject\Project\obj\Debug\NXProject.csproj.CopyComplete
+F:\Projects\NXProject\Project\obj\Debug\NXProject.dll
+F:\Projects\NXProject\Project\obj\Debug\NXProject.pdb

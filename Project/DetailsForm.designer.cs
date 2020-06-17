@@ -238,7 +238,6 @@
             "M6",
             "M8",
             "M10",
-            "M12",
             "M16",
             "M20"});
             this.nutComboBox.Location = new System.Drawing.Point(722, 6);
