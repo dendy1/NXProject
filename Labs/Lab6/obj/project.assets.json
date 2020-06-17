@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\NX\\Labs\\Lab6\\Lab6.csproj",
+      "projectUniqueName": "F:\\Projects\\NXProject\\Labs\\Lab6\\Lab6.csproj",
       "projectName": "Lab6",
-      "projectPath": "F:\\Projects\\NX\\Labs\\Lab6\\Lab6.csproj",
+      "projectPath": "F:\\Projects\\NXProject\\Labs\\Lab6\\Lab6.csproj",
       "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\NX\\Labs\\Lab6\\obj\\",
+      "outputPath": "F:\\Projects\\NXProject\\Labs\\Lab6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andrei\\AppData\\Roaming\\NuGet\\NuGet.Config",

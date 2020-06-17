@@ -10,10 +10,10 @@
       "Lab1/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
-          "NXOpen": "1915.0.0.0",
-          "NXOpen.UF": "1899.1700.0.0",
-          "NXOpen.Utilities": "1915.0.0.0",
-          "NXOpenUI": "1915.0.0.0"
+          "NXOpen": "11.0.0.33",
+          "NXOpen.UF": "11.0.0.33",
+          "NXOpen.Utilities": "4.0.0.0",
+          "NXOpenUI": "11.0.0.33"
         },
         "runtime": {
           "Lab1.dll": {}
@@ -25,35 +25,35 @@
           "Microsoft.NETCore.Platforms": "1.1.0"
         }
       },
-      "NXOpen/1915.0.0.0": {
+      "NXOpen/11.0.0.33": {
         "runtime": {
           "NXOpen.dll": {
-            "assemblyVersion": "1915.0.0.0",
-            "fileVersion": "1915.0.0.0"
+            "assemblyVersion": "11.0.0.33",
+            "fileVersion": "11.0.0.33"
           }
         }
       },
-      "NXOpen.UF/1899.1700.0.0": {
+      "NXOpen.UF/11.0.0.33": {
         "runtime": {
           "NXOpen.UF.dll": {
-            "assemblyVersion": "1899.1700.0.0",
-            "fileVersion": "1899.1700.0.0"
+            "assemblyVersion": "11.0.0.33",
+            "fileVersion": "11.0.0.33"
           }
         }
       },
-      "NXOpen.Utilities/1915.0.0.0": {
+      "NXOpen.Utilities/4.0.0.0": {
         "runtime": {
           "NXOpen.Utilities.dll": {
-            "assemblyVersion": "1915.0.0.0",
-            "fileVersion": "1915.0.0.0"
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
           }
         }
       },
-      "NXOpenUI/1915.0.0.0": {
+      "NXOpenUI/11.0.0.33": {
         "runtime": {
           "NXOpenUI.dll": {
-            "assemblyVersion": "1915.0.0.0",
-            "fileVersion": "1915.0.0.0"
+            "assemblyVersion": "11.0.0.33",
+            "fileVersion": "11.0.0.33"
           }
         }
       }
@@ -79,22 +79,22 @@
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
-    "NXOpen/1915.0.0.0": {
+    "NXOpen/11.0.0.33": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "NXOpen.UF/1899.1700.0.0": {
+    "NXOpen.UF/11.0.0.33": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "NXOpen.Utilities/1915.0.0.0": {
+    "NXOpen.Utilities/4.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "NXOpenUI/1915.0.0.0": {
+    "NXOpenUI/11.0.0.33": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

@@ -12,3 +12,17 @@ F:\Projects\NX\Labs\Lab3\obj\Debug\netstandard2.0\Lab3.AssemblyInfo.cs
 F:\Projects\NX\Labs\Lab3\obj\Debug\netstandard2.0\Lab3.csproj.CopyComplete
 F:\Projects\NX\Labs\Lab3\obj\Debug\netstandard2.0\Lab3.dll
 F:\Projects\NX\Labs\Lab3\obj\Debug\netstandard2.0\Lab3.pdb
+F:\Projects\NXProject\Labs\Lab3\bin\Debug\netstandard2.0\Lab3.deps.json
+F:\Projects\NXProject\Labs\Lab3\bin\Debug\netstandard2.0\Lab3.dll
+F:\Projects\NXProject\Labs\Lab3\bin\Debug\netstandard2.0\Lab3.pdb
+F:\Projects\NXProject\Labs\Lab3\bin\Debug\netstandard2.0\NXOpen.dll
+F:\Projects\NXProject\Labs\Lab3\bin\Debug\netstandard2.0\NXOpen.UF.dll
+F:\Projects\NXProject\Labs\Lab3\bin\Debug\netstandard2.0\NXOpen.Utilities.dll
+F:\Projects\NXProject\Labs\Lab3\bin\Debug\netstandard2.0\NXOpenUI.dll
+F:\Projects\NXProject\Labs\Lab3\obj\Debug\netstandard2.0\Lab3.csprojAssemblyReference.cache
+F:\Projects\NXProject\Labs\Lab3\obj\Debug\netstandard2.0\Lab3.csproj.CoreCompileInputs.cache
+F:\Projects\NXProject\Labs\Lab3\obj\Debug\netstandard2.0\Lab3.AssemblyInfoInputs.cache
+F:\Projects\NXProject\Labs\Lab3\obj\Debug\netstandard2.0\Lab3.AssemblyInfo.cs
+F:\Projects\NXProject\Labs\Lab3\obj\Debug\netstandard2.0\Lab3.csproj.CopyComplete
+F:\Projects\NXProject\Labs\Lab3\obj\Debug\netstandard2.0\Lab3.dll
+F:\Projects\NXProject\Labs\Lab3\obj\Debug\netstandard2.0\Lab3.pdb

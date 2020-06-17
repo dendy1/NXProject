@@ -1,0 +1,14 @@
+C:\Users\Andrei\source\repos\NXProject\obj\Debug\NXProject.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\NXProject\obj\Debug\NXProject.DetailsForm.resources
+C:\Users\Andrei\source\repos\NXProject\obj\Debug\NXProject.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\NXProject\obj\Debug\NXProject.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\NXProject\bin\Debug\NXProject.dll
+C:\Users\Andrei\source\repos\NXProject\bin\Debug\NXProject.pdb
+C:\Users\Andrei\source\repos\NXProject\bin\Debug\NXOpen.dll
+C:\Users\Andrei\source\repos\NXProject\bin\Debug\NXOpen.UF.dll
+C:\Users\Andrei\source\repos\NXProject\bin\Debug\NXOpen.Utilities.dll
+C:\Users\Andrei\source\repos\NXProject\bin\Debug\NXOpenUI.dll
+C:\Users\Andrei\source\repos\NXProject\obj\Debug\NXProject.Properties.Resources.resources
+C:\Users\Andrei\source\repos\NXProject\obj\Debug\NXProject.csproj.CopyComplete
+C:\Users\Andrei\source\repos\NXProject\obj\Debug\NXProject.dll
+C:\Users\Andrei\source\repos\NXProject\obj\Debug\NXProject.pdb

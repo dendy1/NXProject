@@ -6,16 +6,16 @@
 
   <ItemGroup>
     <Reference Include="NXOpen">
-      <HintPath>..\..\NXOpen\NXOpen.dll</HintPath>
+      <HintPath>C:\Users\Andrei\source\repos\NX11 Open\NXOpen.dll</HintPath>
     </Reference>
     <Reference Include="NXOpen.UF">
-      <HintPath>..\..\NXOpen\NXOpen.UF.dll</HintPath>
+      <HintPath>C:\Users\Andrei\source\repos\NX11 Open\NXOpen.UF.dll</HintPath>
     </Reference>
     <Reference Include="NXOpen.Utilities">
-      <HintPath>..\..\NXOpen\NXOpen.Utilities.dll</HintPath>
+      <HintPath>C:\Users\Andrei\source\repos\NX11 Open\NXOpen.Utilities.dll</HintPath>
     </Reference>
     <Reference Include="NXOpenUI">
-      <HintPath>..\..\NXOpen\NXOpenUI.dll</HintPath>
+      <HintPath>C:\Users\Andrei\source\repos\NX11 Open\NXOpenUI.dll</HintPath>
     </Reference>
   </ItemGroup>
 
